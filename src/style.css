@@ -1,0 +1,12 @@
+.root-container{
+  display: flex; max-width: 1200px; padding: 1% 0;  flex-wrap: wrap; margin:0 auto;
+
+}
+.root-container .main-container {    width: 100%;  margin: 0 auto;}
+.hero-container { min-width: 210px;}
+
+@media only screen and (min-width: 420px) {
+  .hero-container {
+    min-width: 180px;
+  }
+}
