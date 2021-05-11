@@ -1216,6 +1216,11 @@
   resolved "https://registry.yarnpkg.com/@pxblue/icons-mui/-/icons-mui-1.0.18.tgz#dc9d23637fc104dbcc25efd926a8f36259c98489"
   integrity sha512-/NI7GDYCz+dn/qI7W10pZt7x5gGY7IngqwFI2zyLBDMgeawD+ryzvzZ6LOvxjdeht0R8cZFa6ZPZuJjtIcLrjw==
 
+"@pxblue/react-components@^1.1.1":
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/@pxblue/react-components/-/react-components-1.1.1.tgz#d5136c57d012a7ef85b2cde5f4e98d666b70377d"
+  integrity sha512-5Kth1ETp9OrZLxy3Z+UJYobTEFVHc15lOdtfI5rNGYDAhe205jtTmuONfCOLU2LN8l9iZ5nOZuD76Id67kZ4+g==
+
 "@pxblue/react-progress-icons@^1.0.6":
   version "1.0.7"
   resolved "https://registry.yarnpkg.com/@pxblue/react-progress-icons/-/react-progress-icons-1.0.7.tgz#2eeeef507926b25782338d71ded201837598a2e7"
@@ -4588,9 +4593,9 @@ hoist-non-react-statics@^3.2.1:
     react-is "^16.7.0"
 
 hosted-git-info@^2.1.4:
-  version "2.8.5"
-  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.5.tgz#759cfcf2c4d156ade59b0b2dfabddc42a6b9c70c"
-  integrity sha512-kssjab8CvdXfcXMXVcvsXum4Hwdq9XGtRD3TteMEvEbq0LXyiNQr6AprqKqfeaDXze7SxWvRxdpwE6ku7ikLkg==
+  version "2.8.9"
+  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.9.tgz#dffc0bf9a21c02209090f2aa69429e1414daf3f9"
+  integrity sha512-mxIDAb9Lsm6DoOJ7xH+5+X4y1LU/4Hi50L9C5sIswK3JzULS4bwk1FvjdBgvYR4bzT4tuUQiC15FE2f5HbLvYw==
 
 hpack.js@^2.1.6:
   version "2.1.6"
