@@ -1216,6 +1216,11 @@
   resolved "https://registry.yarnpkg.com/@pxblue/icons-mui/-/icons-mui-1.0.18.tgz#dc9d23637fc104dbcc25efd926a8f36259c98489"
   integrity sha512-/NI7GDYCz+dn/qI7W10pZt7x5gGY7IngqwFI2zyLBDMgeawD+ryzvzZ6LOvxjdeht0R8cZFa6ZPZuJjtIcLrjw==
 
+"@pxblue/react-components@^1.1.1":
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/@pxblue/react-components/-/react-components-1.1.1.tgz#d5136c57d012a7ef85b2cde5f4e98d666b70377d"
+  integrity sha512-5Kth1ETp9OrZLxy3Z+UJYobTEFVHc15lOdtfI5rNGYDAhe205jtTmuONfCOLU2LN8l9iZ5nOZuD76Id67kZ4+g==
+
 "@pxblue/react-progress-icons@^1.0.6":
   version "1.0.7"
   resolved "https://registry.yarnpkg.com/@pxblue/react-progress-icons/-/react-progress-icons-1.0.7.tgz#2eeeef507926b25782338d71ded201837598a2e7"
@@ -7098,9 +7103,9 @@ path-key@^2.0.0, path-key@^2.0.1:
   integrity sha1-QRyttXTFoUDTpLGRDUDYDMn0C0A=
 
 path-parse@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
-  integrity sha512-GSmOT2EbHrINBf9SR7CDELwlJ8AENk3Qn7OikK4nFYAu3Ote2+JYNVvkpAEQm3/TLNEJFD/xZJjzyxg3KBWOzw==
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
+  integrity sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw==
 
 path-to-regexp@0.1.7:
   version "0.1.7"
