@@ -1216,6 +1216,11 @@
   resolved "https://registry.yarnpkg.com/@pxblue/icons-mui/-/icons-mui-1.0.18.tgz#dc9d23637fc104dbcc25efd926a8f36259c98489"
   integrity sha512-/NI7GDYCz+dn/qI7W10pZt7x5gGY7IngqwFI2zyLBDMgeawD+ryzvzZ6LOvxjdeht0R8cZFa6ZPZuJjtIcLrjw==
 
+"@pxblue/react-components@^1.1.1":
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/@pxblue/react-components/-/react-components-1.1.1.tgz#d5136c57d012a7ef85b2cde5f4e98d666b70377d"
+  integrity sha512-5Kth1ETp9OrZLxy3Z+UJYobTEFVHc15lOdtfI5rNGYDAhe205jtTmuONfCOLU2LN8l9iZ5nOZuD76Id67kZ4+g==
+
 "@pxblue/react-progress-icons@^1.0.6":
   version "1.0.7"
   resolved "https://registry.yarnpkg.com/@pxblue/react-progress-icons/-/react-progress-icons-1.0.7.tgz#2eeeef507926b25782338d71ded201837598a2e7"
@@ -8039,9 +8044,9 @@ qs@6.7.0:
   integrity sha512-VCdBRNFTX1fyE7Nb6FYoURo/SPe62QCaAyzJvUjwRaIsc+NePBEniHlvxFmmX56+HZphIGtV0XeCirBtpDrTyQ==
 
 qs@~6.5.2:
-  version "6.5.2"
-  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.2.tgz#cb3ae806e8740444584ef154ce8ee98d403f3e36"
-  integrity sha512-N5ZAX4/LxJmF+7wN74pUD6qAh9/wnvdQcjq9TZjevvXzSUo7bfmw91saqMjzGS2xq91/odN2dW/WOl7qQHNDGA==
+  version "6.5.3"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.3.tgz#3aeeffc91967ef6e35c0e488ef46fb296ab76aad"
+  integrity sha512-qxXIEh4pCGfHICj1mAJQ2/2XVZkjCDTcEgfoSQxc/fYivUZxTkk7L3bDBJSoNrEzXI17oUO5Dp07ktqE5KzczA==
 
 querystring-es3@^0.2.0:
   version "0.2.1"
